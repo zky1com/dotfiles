@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 41869135+zky1com@users.noreply.github.com
+	name = Nina Zhang
